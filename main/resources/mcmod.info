@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Villager-Simulation",
+  "name": "villagersimulation",
+  "description": "A village simulation mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cory1234567"],
+  "credits": "The Forge and FML guys, for making forge and Satscape for creating this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
